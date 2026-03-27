@@ -10,7 +10,7 @@ This project presents a Power BI dashboard analyzing chocolate sales performance
 - DAX (for calculated measures)
 
 ## 📸 Dashboard Preview
-![Dashboard Overview](dashboard-overview.png)
+Refer to Power Bi.pnp file. Thanks!
 
 ## 📈 Key Insights
 - Higher discount levels are associated with lower profit per transaction, indicating margin erosion
